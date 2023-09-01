@@ -1,0 +1,747 @@
+[
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2023-06-04T07:23:31.035Z[UTC]",
+    "searchQuery" : "d",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-06-04T07:23:31.238Z[UTC]",
+    "searchQuery" : "dog days",
+    "searchInteractionURIs" : [
+      "spotify:track:456WNXWhDwYOSf5SpTuqxd"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-06-05T07:59:31.670Z[UTC]",
+    "searchQuery" : "one more ",
+    "searchInteractionURIs" : [
+      "spotify:track:5ozqshq2dtU7SYCpCBu0NE"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-06-05T14:17:10.411Z[UTC]",
+    "searchQuery" : "one more ",
+    "searchInteractionURIs" : [
+      "spotify:track:5ozqshq2dtU7SYCpCBu0NE"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-06-06T13:08:28.223Z[UTC]",
+    "searchQuery" : "wicked game",
+    "searchInteractionURIs" : [
+      "spotify:track:7w5AOd6HrDIHewHfpABEss",
+      "spotify:track:7lWkrcZmi7HiKsKjth2T0L"
+    ]
+  },
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2023-06-06T13:08:28.780Z[UTC]",
+    "searchQuery" : "wic",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-06-06T13:31:56.548Z[UTC]",
+    "searchQuery" : "defying",
+    "searchInteractionURIs" : [
+      "spotify:track:0yM3VmM8gHEVGViKvAbQkc"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-06-06T13:38:03.355Z[UTC]",
+    "searchQuery" : "wonderful wic",
+    "searchInteractionURIs" : [
+      "spotify:track:1D6pLmob6pai0cjB3ulMdz"
+    ]
+  },
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2023-06-06T13:38:05.147Z[UTC]",
+    "searchQuery" : "wonderful wi",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2023-06-07T20:42:30.444Z[UTC]",
+    "searchQuery" : "ra",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2023-06-07T20:42:30.857Z[UTC]",
+    "searchQuery" : "ray ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-06-07T20:42:33.307Z[UTC]",
+    "searchQuery" : "ray of light",
+    "searchInteractionURIs" : [
+      "spotify:track:4Fpsa3pYc3gozrxHRRPvR6",
+      "spotify:track:03DTDdKVhZ04DlBeKW82ru"
+    ]
+  },
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2023-06-07T20:42:49.314Z[UTC]",
+    "searchQuery" : "ray of light natas",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2023-06-07T21:03:37.704Z[UTC]",
+    "searchQuery" : "c",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2023-06-07T21:03:38.918Z[UTC]",
+    "searchQuery" : "change the",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2023-06-08T09:35:08.095Z[UTC]",
+    "searchQuery" : "th",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-06-08T09:35:10.089Z[UTC]",
+    "searchQuery" : "the wans",
+    "searchInteractionURIs" : [
+      "spotify:track:0tV9rv9u4pT5RDdIrGt2SE"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-06-08T20:53:03.077Z[UTC]",
+    "searchQuery" : "come away wit",
+    "searchInteractionURIs" : [
+      "spotify:track:6jGnykaS6TkWp15utXSAeI"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-06-09T06:30:43.209Z[UTC]",
+    "searchQuery" : "oh bo",
+    "searchInteractionURIs" : [
+      "spotify:track:20JYu9LaN8M1bVjzymrPQj"
+    ]
+  },
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2023-06-11T09:08:20.628Z[UTC]",
+    "searchQuery" : "wea",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-06-11T09:08:22.417Z[UTC]",
+    "searchQuery" : "wear sun",
+    "searchInteractionURIs" : [
+      "spotify:album:30NOuZiJRlawF26dmWVaJo"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-06-15T07:52:42.887Z[UTC]",
+    "searchQuery" : "across the",
+    "searchInteractionURIs" : [
+      "spotify:album:6nlUFeFAPjaDTA7A0VVwnO",
+      "spotify:playlist:37i9dQZF1DWSIXPHRZ4SKc"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-06-15T16:32:03.706Z[UTC]",
+    "searchQuery" : "jonathan pie",
+    "searchInteractionURIs" : [
+      "spotify:show:4q3wX1I0ea9DYzM2uh6vMJ"
+    ]
+  },
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2023-06-15T21:30:24.723Z[UTC]",
+    "searchQuery" : "ca",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2023-06-15T21:30:24.935Z[UTC]",
+    "searchQuery" : "cat",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-06-15T21:30:27.881Z[UTC]",
+    "searchQuery" : "cat empire",
+    "searchInteractionURIs" : [
+      "spotify:artist:023YMawCG3OvACmRjWxLWC"
+    ]
+  },
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2023-06-15T21:30:28.165Z[UTC]",
+    "searchQuery" : "cat empir",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-06-16T23:34:54.667Z[UTC]",
+    "searchQuery" : "soidr5",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZF1DWSIXPHRZ4SKc"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-06-16T23:43:42.078Z[UTC]",
+    "searchQuery" : "tally",
+    "searchInteractionURIs" : [
+      "spotify:artist:7lqaPghwYv2mE9baz5XQmL"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-06-17T23:16:47.880Z[UTC]",
+    "searchQuery" : "makeba",
+    "searchInteractionURIs" : [
+      "spotify:track:4TNFLwe6DhtR3Wn1JKMqMJ",
+      "spotify:track:4TNFLwe6DhtR3Wn1JKMqMJ"
+    ]
+  },
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2023-06-18T17:48:21.603Z[UTC]",
+    "searchQuery" : "lana ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-06-18T17:48:21.760Z[UTC]",
+    "searchQuery" : "lana del ",
+    "searchInteractionURIs" : [
+      "spotify:artist:00FQb4jTyendYWaN8pK0wa"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-06-18T17:48:27.887Z[UTC]",
+    "searchQuery" : "lana del radio",
+    "searchInteractionURIs" : [
+      "spotify:track:3taCbWWTilb7eNMsAzOBq4"
+    ]
+  },
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2023-06-28T06:23:59.135Z[UTC]",
+    "searchQuery" : "d",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2023-06-28T06:23:59.742Z[UTC]",
+    "searchQuery" : "drea",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-06-28T06:24:00.924Z[UTC]",
+    "searchQuery" : "dream swee",
+    "searchInteractionURIs" : [
+      "spotify:track:3RznzRnsl8mzP63l4AF2M7"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-07-02T16:30:05.236Z[UTC]",
+    "searchQuery" : "mika",
+    "searchInteractionURIs" : [
+      "spotify:artist:5MmVJVhhYKQ86izuGHzJYA"
+    ]
+  },
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2023-07-04T22:07:41.611Z[UTC]",
+    "searchQuery" : "a",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2023-07-04T22:07:41.955Z[UTC]",
+    "searchQuery" : "able",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-07-04T22:07:42.874Z[UTC]",
+    "searchQuery" : "able kos",
+    "searchInteractionURIs" : [
+      "spotify:artist:0djvjweduXm6AxFgwcznq8"
+    ]
+  },
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2023-07-08T20:40:20.059Z[UTC]",
+    "searchQuery" : "spiderman magic",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2023-07-08T20:40:20.434Z[UTC]",
+    "searchQuery" : "spiderman magic n",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-07-08T20:40:21.949Z[UTC]",
+    "searchQuery" : "spiderman magic numb34",
+    "searchInteractionURIs" : [
+      "spotify:track:6T7BtgUTm4luPk5dEhhoXz",
+      "spotify:track:4hB8J06D2ZaGkWZDOMpYZB"
+    ]
+  },
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2023-07-09T20:44:26.295Z[UTC]",
+    "searchQuery" : "allenyown",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-07-09T20:44:28.013Z[UTC]",
+    "searchQuery" : "allentown",
+    "searchInteractionURIs" : [
+      "spotify:track:59xhCcRskqyMtKzdvLZDfV",
+      "spotify:track:60m29Z8TtocKOqDlQEbwUS"
+    ]
+  },
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2023-07-09T20:48:23.061Z[UTC]",
+    "searchQuery" : "allentown",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-07-10T13:56:31.056Z[UTC]",
+    "searchQuery" : "allentown",
+    "searchInteractionURIs" : [
+      "spotify:track:59xhCcRskqyMtKzdvLZDfV"
+    ]
+  },
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2023-07-11T09:06:08.214Z[UTC]",
+    "searchQuery" : "groov",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-07-11T09:06:10.831Z[UTC]",
+    "searchQuery" : "groove m",
+    "searchInteractionURIs" : [
+      "spotify:track:0QZrRSJYtgVavBuHsVUcDF",
+      "spotify:track:0QZrRSJYtgVavBuHsVUcDF"
+    ]
+  },
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2023-07-11T14:45:54.004Z[UTC]",
+    "searchQuery" : "welcom",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-07-11T14:45:54.874Z[UTC]",
+    "searchQuery" : "welcome to ea",
+    "searchInteractionURIs" : [
+      "spotify:track:09uV1Sli9wapcKQmmyaG4E"
+    ]
+  },
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2023-07-12T15:32:03.564Z[UTC]",
+    "searchQuery" : "b",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2023-07-12T15:32:04.151Z[UTC]",
+    "searchQuery" : "boys ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-07-12T15:32:06.165Z[UTC]",
+    "searchQuery" : "boys town gabg",
+    "searchInteractionURIs" : [
+      "spotify:track:566U7bjbnK0I3RxObVVpA9"
+    ]
+  },
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2023-07-14T07:17:02.818Z[UTC]",
+    "searchQuery" : "da",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-07-14T07:17:04.269Z[UTC]",
+    "searchQuery" : "das sp",
+    "searchInteractionURIs" : [
+      "spotify:artist:3CeCn5LjIqALOE6LJuF2Um",
+      "spotify:track:1ADU56d6WQXaGAJKawm0Kr"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-07-15T12:16:34.728Z[UTC]",
+    "searchQuery" : "salis",
+    "searchInteractionURIs" : [
+      "spotify:track:6vZZtivPrtpggT5SSXsYTy"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-07-15T12:16:34.813Z[UTC]",
+    "searchQuery" : "salisb",
+    "searchInteractionURIs" : [
+      "spotify:track:6vZZtivPrtpggT5SSXsYTy",
+      "spotify:track:029NqmIySn1kOY305AAhxT"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-07-17T08:00:58.457Z[UTC]",
+    "searchQuery" : "dancing eitu",
+    "searchInteractionURIs" : [
+      "spotify:track:1BY1Vd2Bt6JPOhMvsIwtVv"
+    ]
+  },
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2023-07-22T10:30:06.177Z[UTC]",
+    "searchQuery" : "troub",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-07-22T10:30:06.366Z[UTC]",
+    "searchQuery" : "trouble",
+    "searchInteractionURIs" : [
+      "spotify:track:0R8P9KfGJCDULmlEoBagcO"
+    ]
+  },
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2023-07-22T10:30:12.231Z[UTC]",
+    "searchQuery" : "par",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2023-07-22T10:30:12.630Z[UTC]",
+    "searchQuery" : "parad",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2023-07-22T10:30:12.710Z[UTC]",
+    "searchQuery" : "paradi",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-07-22T10:30:13.086Z[UTC]",
+    "searchQuery" : "paradise",
+    "searchInteractionURIs" : [
+      "spotify:track:6nek1Nin9q48AVZcWs9e9D"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-07-24T07:38:14.291Z[UTC]",
+    "searchQuery" : "barboe",
+    "searchInteractionURIs" : [
+      "spotify:playlist:2XEU8XahHND9m3XOgIDLqB"
+    ]
+  },
+  {
+    "platform" : "WIN32_X86_64",
+    "searchTime" : "2023-07-25T19:42:39.957Z[UTC]",
+    "searchQuery" : "sa",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86_64",
+    "searchTime" : "2023-07-25T19:42:44.315Z[UTC]",
+    "searchQuery" : "sam gri",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-07-26T19:25:07.916Z[UTC]",
+    "searchQuery" : "back to th",
+    "searchInteractionURIs" : [
+      "spotify:playlist:6xRSM00y2BnX6N2vejmpIF",
+      "spotify:track:7kjMRvLo3XRtpbbwDNE7V8"
+    ]
+  },
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2023-07-26T22:03:12.961Z[UTC]",
+    "searchQuery" : "w",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2023-07-26T22:03:13.448Z[UTC]",
+    "searchQuery" : "whe",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-07-26T22:03:14.988Z[UTC]",
+    "searchQuery" : "when l",
+    "searchInteractionURIs" : [
+      "spotify:track:1hRFVIy9As8OVRk8B7CrD5"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-08-02T20:31:11.659Z[UTC]",
+    "searchQuery" : "black tre",
+    "searchInteractionURIs" : [
+      "spotify:track:7EUcOIbJSePmXGvAe7G79C"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-08-02T20:35:38.595Z[UTC]",
+    "searchQuery" : "lofi",
+    "searchInteractionURIs" : [
+      "spotify:genre:0JQ5DAqbMKFKDIyhfS9NTT"
+    ]
+  },
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2023-08-02T20:35:38.722Z[UTC]",
+    "searchQuery" : "l",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2023-08-06T12:46:19.023Z[UTC]",
+    "searchQuery" : "pollywo",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-08-06T12:46:22.377Z[UTC]",
+    "searchQuery" : "pollywog",
+    "searchInteractionURIs" : [
+      "spotify:track:60Cx4xLdpUKAdEP5179MZ2",
+      "spotify:track:09uV1Sli9wapcKQmmyaG4E",
+      "spotify:track:09uV1Sli9wapcKQmmyaG4E",
+      "spotify:track:09uV1Sli9wapcKQmmyaG4E"
+    ]
+  },
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2023-08-06T19:03:16.396Z[UTC]",
+    "searchQuery" : "give q lit",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2023-08-06T19:03:16.532Z[UTC]",
+    "searchQuery" : "give q li",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-08-06T19:03:18.135Z[UTC]",
+    "searchQuery" : "give a l",
+    "searchInteractionURIs" : [
+      "spotify:track:6XUHsYE38CEbYunT983O9G"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-08-06T19:58:46.385Z[UTC]",
+    "searchQuery" : "wasnt me",
+    "searchInteractionURIs" : [
+      "spotify:track:3WkibOpDF7cQ5xntM1epyf"
+    ]
+  },
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2023-08-11T09:23:03.094Z[UTC]",
+    "searchQuery" : "moam",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-08-11T09:23:14.380Z[UTC]",
+    "searchQuery" : "miami billy j",
+    "searchInteractionURIs" : [
+      "spotify:track:4zVPevC2rE84lySHxX61Yr"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-08-12T22:03:53.602Z[UTC]",
+    "searchQuery" : "chicago sugj",
+    "searchInteractionURIs" : [
+      "spotify:track:1yupbrI7ROhigIHpQBevPh",
+      "spotify:track:1yupbrI7ROhigIHpQBevPh"
+    ]
+  },
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2023-08-22T21:30:08.277Z[UTC]",
+    "searchQuery" : "d",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-08-22T21:30:10.135Z[UTC]",
+    "searchQuery" : "devotch",
+    "searchInteractionURIs" : [
+      "spotify:artist:0hk8VgR64voU5ueK96W2DI"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-08-22T21:30:16.877Z[UTC]",
+    "searchQuery" : "devotch til thr ",
+    "searchInteractionURIs" : [
+      "spotify:playlist:0ECmhItMCNTc7aTrkMKQ8u",
+      "spotify:playlist:4SVAk02vpk61hGwLd8Ds4p"
+    ]
+  },
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2023-08-22T21:47:36.372Z[UTC]",
+    "searchQuery" : "caroli",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-08-22T21:47:37.680Z[UTC]",
+    "searchQuery" : "carolina rolli",
+    "searchInteractionURIs" : [
+      "spotify:track:3KPbfMIQy43Wc9XbhmaIFy"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-08-23T23:20:48.081Z[UTC]",
+    "searchQuery" : "lurelin",
+    "searchInteractionURIs" : [
+      "spotify:track:4Z96Yr6wYtxXTG2Uwv6rV7"
+    ]
+  },
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2023-08-24T17:36:13.629Z[UTC]",
+    "searchQuery" : "lurelin",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2023-08-24T17:36:15.825Z[UTC]",
+    "searchQuery" : "d",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-08-24T17:36:17.188Z[UTC]",
+    "searchQuery" : "duru",
+    "searchInteractionURIs" : [
+      "spotify:artist:7fh7bwX9qV60tLxxsp9bTe"
+    ]
+  },
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2023-08-25T19:15:57.458Z[UTC]",
+    "searchQuery" : "terra ni",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-08-25T19:15:58.556Z[UTC]",
+    "searchQuery" : "terra nil",
+    "searchInteractionURIs" : [
+      "spotify:album:0fD2rSIb8s6hJIpxL5mX58"
+    ]
+  },
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2023-08-29T22:46:33.633Z[UTC]",
+    "searchQuery" : "pearl j",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-08-29T22:46:34.188Z[UTC]",
+    "searchQuery" : "pearl jam",
+    "searchInteractionURIs" : [
+      "spotify:artist:1w5Kfo2jwwIPruYS2UWh56"
+    ]
+  }
+]

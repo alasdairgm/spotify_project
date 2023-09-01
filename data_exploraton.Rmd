@@ -1,0 +1,23 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+```{r}
+# Load the package required to read JSON files.
+library(rjson)
+library(tidyverse)
+# Give the input file name to the function.
+myData <- fromJSON(file="raw_data/StreamingHistory1.json")
+
+# Convert JSON file to dataframe.
+json_data_frame <- as.data.frame(myData)
+
+json_data_frame %>% 
+ pivot_longer(cols = -starts_with("trackName"),
+              names_to = "measurement",
+              values_to = "measurement_val") %>% 
+  head()
+
+```
+
