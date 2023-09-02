@@ -5,5 +5,5 @@
             "ascending": true
         }
     ],
-    "path": "~/github/spotify_project/raw_data"
+    "path": "~/github/spotify_project/clean_data"
 }
