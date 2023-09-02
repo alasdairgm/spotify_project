@@ -10,10 +10,14 @@ library(tidyverse)
 # Give the input file name to the function.
 spotify_songs_json1 <- fromJSON(file="raw_data/StreamingHistory0.json")
 spotify_songs_json2 <- fromJSON(file="raw_data/StreamingHistory1.json")
+spotify_library_json <- fromJSON(file="raw_data/YourLibrary.json")
+spotify_playlists_json <- fromJSON(file="raw_data/Playlist1.json")
 
 # Convert JSON file to dataframe.
 json_data_frame1 <- as.data.frame(spotify_songs_json1)
 json_data_frame2 <- as.data.frame(spotify_songs_json2)
+#json_data_frame3 <- as.data.frame(spotify_library_json)
+json_data_frame4 <- as.data.frame(spotify_playlists_json)
 ```
 
 First, will identify what data types I've got:

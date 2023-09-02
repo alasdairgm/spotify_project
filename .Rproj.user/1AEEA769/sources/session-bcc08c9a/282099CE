@@ -1,0 +1,28 @@
+{
+    "id": "282099CE",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1693658575056.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "id": "29ab53633e074e66a8c683d45dd0565f",
+        "name": "spotify_library_json",
+        "title": "spotify_library_json",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 3184095742527746617,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1693658575056,
+    "read_only": false,
+    "read_only_alternatives": []
+}

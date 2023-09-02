@@ -1,0 +1,28 @@
+{
+    "id": "0DE76B49",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1693600526565.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "id": "b26586eb665041d7b23513625bdab468",
+        "name": "myData",
+        "title": "myData",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 2459000727723666785,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1693600526565,
+    "read_only": false,
+    "read_only_alternatives": []
+}
