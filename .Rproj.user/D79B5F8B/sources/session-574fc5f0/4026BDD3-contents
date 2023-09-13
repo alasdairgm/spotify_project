@@ -1,0 +1,121 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+```{r}
+# Load the package required to read JSON files.
+library(rjson)
+library(tidyverse)
+# Give the input file name to the function.
+spotify_songs_json1 <- fromJSON(file="raw_data/StreamingHistory0.json")
+spotify_songs_json2 <- fromJSON(file="raw_data/StreamingHistory1.json")
+#spotify_library_json <- fromJSON(file="raw_data/YourLibrary.json")
+#spotify_playlists_json <- fromJSON(file="raw_data/Playlist1.json")
+
+# Convert JSON file to dataframe.
+json_data_frame1 <- as.data.frame(spotify_songs_json1)
+json_data_frame2 <- as.data.frame(spotify_songs_json2)
+#json_data_frame3 <- as.data.frame(spotify_library_json)
+#json_data_frame4 <- as.data.frame(spotify_playlists_json)
+```
+
+First, will identify what data types I've got:
+```{r}
+# summary(json_data_frame1)
+# loads of artistName, trackName, msPlayed, endTime on repeat
+
+json_data_frame1 %>% 
+  select(endTime:msPlayed) %>% 
+  sapply(class)
+
+```
+Three of type character and one of type numeric, could split these up.
+
+endTime should be a date but can fix this post-pivot.
+
+
+
+Pivot and clean:
+```{r}
+# found this method for dealing with very wide data format
+names0 <- sub(".\\d+$", "", names(json_data_frame1)) # col names
+names.suffix <- sub("^\\D+", "", names(json_data_frame1)) # numbers from col names
+spotify_songs1 <- tapply(as.matrix(json_data_frame1), list(names.suffix, names0), c)[, unique(names0)]
+
+names0 <- sub(".\\d+$", "", names(json_data_frame2)) # col names
+names.suffix <- sub("^\\D+", "", names(json_data_frame2)) # numbers from col names
+spotify_songs2 <- tapply(as.matrix(json_data_frame2), list(names.suffix, names0), c)[, unique(names0)]
+
+spotify_songs_clean <- as_tibble(spotify_songs1) %>% 
+  bind_rows(as_tibble(spotify_songs2)) %>% 
+  janitor::clean_names() %>% 
+  mutate(track_name = str_to_title(track_name)) %>% 
+  relocate(track_name, .before = 1) %>% 
+  rename(date_listened = end_time) %>% 
+  mutate(date_listened = ymd_hm(date_listened))
+
+```
+
+Add home city lat and long
+Lofi fruits: 51.6410, 4.8617
+Mikel: 51.5072, 0.1276
+Tom Cardy: 33.8688, 151.2093
+Jukebox the Ghost: 38.9072, 77.0369
+Hozier: 54.2161, 5.8920
+Alela Diane: 39.2616, 121.0161
+Tame Impala: 31.9523, 115.8613
+Sonya Belousova: 34.0549, 118.2426
+Glass Animals: 51.7520, 1.2577
+Vampire Weekend: 40.7128, 74.006
+
+```{r}
+locations <- as_tibble(
+  lat = c(
+    51.6410,
+    51.5072, 
+    -33.8688, 
+    38.9072, 
+    54.2161, 
+    39.2616, 
+    -31.9523, 
+    34.0549, 
+    51.7520, 
+    40.7128
+  ),
+  
+  long = c(
+    4.8617,
+    0.1276,
+    151.2093,
+    -77.0369,
+    -5.8920,
+    -121.0161,
+    115.8613,
+    -118.2426,
+    -1.2577,
+    -74.006
+  )
+)
+
+spotify_songs_clean %>% 
+  mutate(ms_played = as.numeric(ms_played)) %>% 
+  filter(ms_played >= 60000,
+         ms_played < 60000*8) %>% 
+  count(artist_name) %>% 
+  arrange(desc(n))
+slice_max(n = 10, order_by = n, with_ties = TRUE)
+artist_latitude = case_when(
+  artist == ""
+)
+```
+
+
+
+
+
+Write data
+```{r}
+write_csv(spotify_songs_clean, here::here("clean_data/spotify_songs.csv"))
+```
+

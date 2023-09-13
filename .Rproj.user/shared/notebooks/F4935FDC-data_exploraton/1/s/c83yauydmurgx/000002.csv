@@ -1,0 +1,9 @@
+"0","```r
+# summary(json_data_frame1)
+# loads of artistName, trackName, msPlayed, endTime on repeat
+
+json_data_frame1 %>% 
+  select(endTime:msPlayed) %>% 
+  sapply(class)
+
+```"

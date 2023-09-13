@@ -1,0 +1,26 @@
+{
+    "id": "099C6E73",
+    "path": "~/Documents/GitHub/spotify_project/spotify_project/analysis/spotify_analysis.Rmd",
+    "project_path": "analysis/spotify_analysis.Rmd",
+    "type": "r_markdown",
+    "hash": "2096392694",
+    "contents": "",
+    "dirty": false,
+    "created": 1694553545467.0,
+    "source_on_save": true,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "150,26",
+        "scrollLine": "145"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1694598106,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1694598106282,
+    "read_only": false,
+    "read_only_alternatives": []
+}
